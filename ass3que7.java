@@ -1,5 +1,5 @@
 import java.util.*;
-class Brack 
+class Bracket
 {
   public boolean isValid(String s, int i, int open, int closed)
   {
